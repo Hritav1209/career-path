@@ -1,2 +1,1 @@
-# career-path
-CareerPath platform for student career exploration, quizzes, AI mentoring, and learning roadmaps.
+{"name":"CareerPath","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"}}
